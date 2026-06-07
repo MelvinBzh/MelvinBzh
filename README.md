@@ -4,36 +4,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7AA2F7&center=true&width=550&lines=Administration+syst%C3%A8mes+%26+r%C3%A9seau+Linux+%2F+Windows;Cybers%C3%A9curit%C3%A9+%E2%80%94+Red+%26+Blue+Team;D%C3%A9veloppeur+iOS+%E2%80%94+Swift+%26+SwiftUI;Homelab+%26+Infrastructure+auto-h%C3%A9berg%C3%A9e;Ing%C3%A9nierie+IA+%E2%80%94+LLMs+locaux+%26+agents" alt="Typing SVG" />
 </p>
 
-<p align="center">
-Je conçois des applications, de l'infrastructure homelab et des labs de sécurité<br/>
-avec un souci de clarté, de fiabilité et de reproductibilité.
-</p>
+  <p align="center">
+    <i>
+      Entre deux sessions d'admin sys, je code des apps iOS,<br/>
+      monte des labs de sécurité et bricole un homelab qui grandit trop vite.<br/>
+      L'IA s'y est glissée naturellement. Pas de spécialité unique,<br/>
+      juste de la curiosité et l'obstination que ça fonctionne vraiment.
+    </i>
+  </p>
 
 ---
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvinBzh/MelvinBzh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvinBzh/MelvinBzh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MelvinBzh/MelvinBzh/output/github-snake-dark.svg" />
-</picture>
-</p>
-
----
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MelvinBzh&show_icons=true&theme=tokyonight&hide_border=true&locale=fr&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinBzh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MelvinBzh&theme=tokyonight&hide_border=true&locale=fr" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MelvinBzh&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://raw.githubusercontent.com/MelvinBzh/MelvinBzh/main/metrics.svg" />
 </p>
 
 ---
