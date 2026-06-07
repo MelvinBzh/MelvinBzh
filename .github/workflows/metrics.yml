@@ -14,6 +14,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
           config_timezone: Europe/Paris
